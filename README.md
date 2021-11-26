@@ -1,0 +1,2 @@
+# Hadouken
+$HDKN is a hyper deflationary token designed to become more scarce over time. All holders of Hadouken will earn an 8.5% reward from Buy/Sell Transactions combined in Binance pegged BUSD, which is automatically sent to your wallets that you used to purchase Hadouken. No minimum amount of Hadouken is required to start receiving BUSD rewards. The longer you hold Hadouken the greater your rewards will be.
